@@ -4,7 +4,7 @@ I'm [Ana](anaschwendler.com), Brazilian living in Berlin now, and as a developer
 
 On this page, you might see lots of [Python](https://www.python.org/) and [Ruby](https://www.ruby-lang.org/) code, since I like to walk around both languages, but still, I'm not that attached to any of them, mostly open to learning something new. Saying that my best skill by this time is Backend Development, and my current interest is Developer Operations(DevOps) and infrastructure/scaling subjects.
 
-Feel to reach out via [Twitter](twitter.com/anaschwendler), or any other platform you might see my contact o/
+Feel to reach out via [Twitter](https://twitter.com/anaschwendler), or any other platform you might see my contact o/
 
 Also, I always like to use gifs to express the way I'm feeling, so here it goes my general representation:
 
