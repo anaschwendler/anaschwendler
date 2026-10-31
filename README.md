@@ -6,6 +6,10 @@ On this page, you might see lots of [Python](https://www.python.org/) and [Ruby]
 
 Feel to reach out via [Twitter](https://twitter.com/anaschwendler), or any other platform you might see my contact o/
 
+### Writing
+
+- Revisiting my undergraduate thesis, almost ten years later: [English](posts/2026-10-31-revisiting-my-thesis.md) · [Português](posts/2026-10-31-revisitando-meu-tcc.md)
+
 Also, I always like to use gifs to express the way I'm feeling, so here it goes my general representation:
 
 ![](https://media.giphy.com/media/8UGGp7rQvfhe63HrFq/giphy.gif)
